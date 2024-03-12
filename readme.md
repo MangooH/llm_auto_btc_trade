@@ -1,3 +1,9 @@
+# IDEA
+> [코인 자동매매 프로그램](https://github.com/MangooH/Coin_trade_program-with_tkinter)을 제작하면서,
+> 해당 프로그램은 RSI 보조지표 하나를 가지고 구현이 되었지만, 실제로 협업한 트레이더의 매매 기법은 상당히 복잡하다.
+> 이를 알고리즘 상에 일일이 담아내고, 테스트하는 것이 상당히 오래걸릴 것이다.
+> 따라서, 매매기법을 prompt engineering 으로 풀어 LLM이 매매를 판단하게 하는 프로그램을 만들어봐야겠다고 생각했다.
+
 # Prompt engineering 의 적용
 
 > - [프롬프팅 26가지 원칙](https://enjoy-zero-to-one.tistory.com/58)을 기반으로 prompt engineering 을 연습한다.
