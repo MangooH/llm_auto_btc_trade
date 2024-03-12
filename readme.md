@@ -82,15 +82,11 @@
 
 ### Considerations
 
-- ![image.png](attachment:image.png)
-
 ```
 This task significantly impacts personal assets, requiring careful and strategic analysis.
 ```
 
 - **_"단계별 생각", step by step_**
-
-* ![image-2.png](attachment:image-2.png)
 
 ```
 Take a deep breath and work on this step by step.
@@ -100,4 +96,3 @@ Take a deep breath and work on this step by step.
 
 - ChatGPT 를 사용해서 만든 Buy, Sell, Hold 전략 예시
 
-- ![image-3.png](attachment:image-3.png)
