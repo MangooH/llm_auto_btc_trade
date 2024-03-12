@@ -1,4 +1,6 @@
 # IDEA
+![image](https://github.com/MangooH/llm_auto_btc_trade/assets/88866306/fb6cced6-62f7-40cb-b029-6b8fcb6f0c6a)
+
 > [코인 자동매매 프로그램](https://github.com/MangooH/Coin_trade_program-with_tkinter)을 제작하면서,
 > 해당 프로그램은 RSI 보조지표 하나를 가지고 구현이 되었지만, 실제로 협업한 트레이더의 매매 기법은 상당히 복잡하다.
 > 이를 알고리즘 상에 일일이 담아내고, 테스트하는 것이 상당히 오래걸릴 것이다.
